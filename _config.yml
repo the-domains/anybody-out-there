@@ -1,29 +1,18 @@
-name: AnyBody Out There
-favicon: null
-layout_spectrum: 0.6012290171347558
-typography_spectrum: 0.382456268183887
-title: AnyBody Out There
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#B0B8B8'
+    - '#782820'
+    - '#888880'
+    - '#B02830'
+    - '#000000'
   brandStrength: 0.6086807379033417
   lightness: 0.39011985063552856
-  saturation: 0.5803254439961165
   rhythmicContrast: 0.3375253810081631
+  saturation: 0.5803254439961165
+cta: {}
+layout_spectrum: 0.6012290171347558
+name: AnyBody Out There
+opengraph: {}
 purpose: []
+typography_spectrum: 0.382456268183887
